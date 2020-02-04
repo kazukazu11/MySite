@@ -504,9 +504,6 @@ footer p{
   .contact-box-left-content{
   	width: 100%;
   }
-  .contact-box-left-title:nth-child(1){
-  	margin-top: 20px;
-  }
   .contact-box-right{
   	float: none;
   	width: 100%;
